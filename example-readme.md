@@ -1,0 +1,1 @@
+Something really simple to get a quick combo off of in vs code.~
